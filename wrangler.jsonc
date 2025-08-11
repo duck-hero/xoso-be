@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "xoso-be",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "xs-db",
+      "database_id": "9aa3427f-2961-4b38-95c2-6ff89929d4df"
+    }
+  ]
+}
